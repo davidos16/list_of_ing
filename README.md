@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+List of Ingredients is a simple app for alcohol beverage recipes.
 
-Things you may want to cover:
+Built with Rails serving and react serving the front and rails serving the backend. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check it out the production version: https://polar-depths-40742.herokuapp.com/
